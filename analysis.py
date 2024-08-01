@@ -10,4 +10,4 @@ ax.set_xlabel('x')
 ax.set_ylabel('y')
 ax.set_title('Cosine')
 plt.show()
-```
+ fig.savefig('cosine.png')
